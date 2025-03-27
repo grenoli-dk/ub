@@ -1,6 +1,8 @@
+// shared-data.js
+
 var sharedData = {
 
-    "medlemstal": "+290.000",
+    "medlemstal": "+390.000",
 
     "forsikrings_medlemstal": "+100.000",
 
