@@ -3,7 +3,7 @@
 
 var sharedData = {
 
-    "medlemstal": "+290.000",
+    "medlemstal": "+170.000",
 
     "forsikrings_medlemstal": "+100.000",
 
